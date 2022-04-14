@@ -12,7 +12,7 @@
 </div>
 </n>
 
-<h3 align="left">Frameworks, Plataformas e Bibliotecas:</h3>
+<h3 align="left">Frameworks, plataformas e bibliotecas:</h3>
 <a href="https://twitter.com/samuellralph">
    <img src="https://img.shields.io/badge/java-%2302569B.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
 </a>
