@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Samuell</h1>
-<h3 align="center">A passionate Java Developer from Brazil</h3>
+<h3 align="center">Um desenvolvedor apaixonado por Java</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Entre em contato:</h3>
 <div id="badges">
   <a href="https://linkedin.com/in/samuellralph">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +12,7 @@
 </div>
 </n>
 
-<h3 align="left">Frameworks, Platforms and Libraries:</h3>
+<h3 align="left">Frameworks, Plataformas e Bibliotecas:</h3>
 <a href="https://twitter.com/samuellralph">
    <img src="https://img.shields.io/badge/java-%2302569B.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
 </a>
