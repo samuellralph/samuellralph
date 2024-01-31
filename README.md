@@ -1,3 +1,6 @@
+<style>
+  .space { text-indent: 2em; }
+</style>
 <h3 align="center">Desenvolvedor Java FullStack</h3>
 
 <h3 align="left">Entre em contato:</h3>
@@ -13,10 +16,10 @@
 </n>
 
 <h3 align="left">Frameworks, plataformas e bibliotecas:</h3>
-<a href="#">
+<a href="#" class="space">
    <img src="https://img.shields.io/badge/java-%2302569B.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
 </a>
- &nbsp;&nbsp;
+
 <a href="#">
    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/>
 </a>
